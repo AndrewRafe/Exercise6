@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#202020</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#202020</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="train_status_late_color">#FF5050</color>
+    <color name="train_status_on_time_color">#50FF50</color>
+    <color name="train_status_early">#5050FF</color>
+
+    <color name="time_to_arrival_background">#109010</color>
+    <color name="destination_arrival_time_text_color">#5050FF</color>
+</resources>
